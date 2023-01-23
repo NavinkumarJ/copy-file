@@ -29,8 +29,8 @@ End the program.
 ```
 ''' 
 Program to copy the contents from one file to another file
-Developed by: Santhosh U
-RegisterNumber: 22009224
+Developed by: NAVIN KUMAR J
+RegisterNumber: 22009212
 '''
 with open('new.txt','r') as firstfile:
     with open('file.txt','a') as secondfile:
